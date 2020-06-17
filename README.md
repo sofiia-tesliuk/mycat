@@ -4,7 +4,7 @@ Implementation of unix `cat` command.
 ### Usage
 
 ```
-./cat [-h/--help] [-A/--A] filename1 [filename2] ...
+./mycat [-h/--help] [-A/--A] filename1 [filename2] ...
 ```
 
   `-h/--help` Help option. </br >
